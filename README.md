@@ -8,5 +8,5 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- [View Solution on Frontend Mentor](https://your-solution-url.com)
+- [View Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/four-card-feature-section-730NiGj6Np)
 - [Live Site URL](https://four-cards-0x.netlify.app)
