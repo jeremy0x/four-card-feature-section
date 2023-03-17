@@ -145,24 +145,6 @@ main {
   margin-top: 2rem;
 }
 
-.attribution {
-  font-size: 11px;
-  text-align: center;
-  padding-block: 0.2rem;
-  background-color: var(--very-light-gray);
-  border-top: thin solid hsla(229, 6%, 66%, 0.2);
-
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-}
-
-.attribution a {
-  color: var(--blue);
-  text-decoration: none;
-}
-
 *::-webkit-scrollbar {
   width: 4px;
   background-color: var(--very-light-gray);
