@@ -1,4 +1,4 @@
-# Four card feature section solution
+# Four Card Feature Section
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b18de785-82ae-4e13-9cc8-60cc2f8c54f7/deploy-status)](https://app.netlify.com/sites/four-cards-0x/deploys)
 
@@ -10,5 +10,5 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- [View Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/four-card-feature-section-730NiGj6Np)
 - [Live Site URL](https://four-cards-0x.netlify.app)
+- [View Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/four-card-feature-section-730NiGj6Np)
